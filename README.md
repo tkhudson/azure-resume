@@ -26,4 +26,6 @@ const getVisitCount = () => {
     return count;
 }
 ```
-
+# second steps
+- Created Azure Cosmos DB account
+- Created Database and Container for the project
