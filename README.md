@@ -1,5 +1,5 @@
 # azure-resume
-My resume hosted through Azure. A personal project to get more acquainted with Azure.
+My resume hosted through Azure. A personal project to get more acquainted with Azure. [UNFINISHED]
 
 # first steps
 - Frontend folder contains the website
